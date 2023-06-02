@@ -1,11 +1,6 @@
 #!/bin/bash
 
 #setup
-
-brew --version
-
-# brewがなければ、エラー”brewをインストールしてください”
-
 # ghがインストールされていたら、brew update gh
 brew list
 
